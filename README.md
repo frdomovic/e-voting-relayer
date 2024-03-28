@@ -59,7 +59,7 @@ SERVER_PORT=3001
 #### 4. Start relayer Server
 
 ```bash
-$: npm install
+$: npm start
 ```
 
 #### 5. To run the whole project - Continue on readme.md for frontend
